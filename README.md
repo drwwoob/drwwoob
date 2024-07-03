@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @drwwoob
 
-- i need good food
-- and some even better food
+- yes, I do love making triangular shape wheels
   
 <!---
 drwwoob/drwwoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
