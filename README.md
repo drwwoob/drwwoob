@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @drwwoob
 
-  ♿ yes, I do love making triangular shape wheels ♿️ 哇袄
+  ♿ yes, I do love making triangular wheels ♿️ 哇袄
   
 <!---
 drwwoob/drwwoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
